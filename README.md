@@ -39,7 +39,10 @@ Reusable business logic Independent of Android framework Easier testing Data Lay
 
 Responsible for data retrieval and storage.
 
-Components:
+# Components:
 Remote Retrofit API Service Local Room Database DAO Entities Session DataStore Repository Implementations
 
 Implements repository contracts defined in Domain Layer.
+
+# Screenshots:
+<img width="1080" height="2340" alt="1000000511" src="https://github.com/user-attachments/assets/87af1786-9f77-4123-99c4-6f05e9773c65" />
