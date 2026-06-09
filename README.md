@@ -46,3 +46,6 @@ Implements repository contracts defined in Domain Layer.
 
 # Screenshots:
 <img width="1080" height="2340" alt="1000000511" src="https://github.com/user-attachments/assets/87af1786-9f77-4123-99c4-6f05e9773c65" />
+<img width="1080" height="2340" alt="1000000512" src="https://github.com/user-attachments/assets/13024b78-0c50-4fcf-906b-f48a3c98b966" />
+<img width="1080" height="2340" alt="1000000513" src="https://github.com/user-attachments/assets/961d4b8a-63eb-489b-9d57-d16698880216" />
+
